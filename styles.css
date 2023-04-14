@@ -712,3 +712,7 @@ main .recent-transactions .card-details .card{
                     gap: 1.4rem;
           }
 }
+
+img {
+          pointer-events: none;
+      }
